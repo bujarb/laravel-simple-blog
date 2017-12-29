@@ -1,0 +1,27 @@
+.btn-h1-spacing{
+	margin-top: 20px;
+}
+
+.form-space{
+	margin-top: 20px;
+}
+
+.top-margin{
+	margin-top: 100px;
+}
+
+.from-right{
+	margin-right: 10px;
+	height: 35px;
+	margin-top: 5px;
+}
+
+.glyphicon {  margin-bottom: 10px;margin-right: 10px;}
+
+small {
+display: block;
+line-height: 1.428571429;
+color: #999;
+}
+
+.five-from-top{ margin-top: 5px; }
